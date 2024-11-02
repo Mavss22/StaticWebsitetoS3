@@ -73,8 +73,8 @@ button:hover {
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #0f3460, #0f3460); /* Fondo degradado */
-    color: white; /* Color de texto */
+    background: linear-gradient(to right, #af1dbd, #0f3460); 
+    color: white; 
 }
 
 .container {
